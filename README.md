@@ -3,4 +3,4 @@
 
 ![](https://github.com/cooligus/cooligus/blob/main/skeleton.gif)
 
-Each of my gists is licensed under [The Unlicense](https://unlicense.org/)
+Each of my gists is licensed under [The MIT License](https://opensource.org/license/mit/)
